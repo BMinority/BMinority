@@ -20,7 +20,7 @@ Em processo de aprendizagem:
   ##
 
   ![Bruno Coelho](https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=donut)](https://github.com/BMinority/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact)
   
   ##
  
