@@ -10,7 +10,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-
   ##
 
 Em processo de aprendizagem:
@@ -21,7 +20,8 @@ Em processo de aprendizagem:
   ##
 
   ![Bruno Coelho](https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=donut)](https://github.com/BMinority/github-readme-stats)
+  
   ##
  
 <div> 
