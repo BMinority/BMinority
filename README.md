@@ -19,8 +19,9 @@ Em processo de aprendizagem:
 
   ##
 
-  ![Bruno Coelho](https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical" alt="Bruno Coelho" style="height:10em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact&theme=radical" alt="Top Langs" style="height:10em;">
+
+
   
   ##
  
