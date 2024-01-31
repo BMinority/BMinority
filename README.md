@@ -1,4 +1,4 @@
-### Olá! Eu sou Bruno Coelho, estudante Full-Stack na Cubos Academy em 2024 👋
+### Olá! Eu sou Bruno Coelho, estudante Full-Stack na [Cubos Academy](https://cubos.academy/) em 2024 👋
 
 ##
 
