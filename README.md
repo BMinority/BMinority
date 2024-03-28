@@ -30,6 +30,12 @@ Em processo de aprendizagem:
 </div>
 
   ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/dev-bcoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+  ##
 
   <img src="https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical" alt="Bruno Coelho" style="height:10em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact&theme=radical" alt="Top Langs" style="height:10em;">
   
@@ -45,8 +51,4 @@ Certificados:
 
 [JavaScript - do básico ao avançado (com Node.JS)](https://www.udemy.com/certificate/UC-761b707d-11e3-4dc2-b309-2f32611a0e78/)
 
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/dev-bcoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
