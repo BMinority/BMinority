@@ -1,4 +1,4 @@
-### Olá! Eu sou Bruno Coelho, Desenvolvedor de Software Front-end 👋
+![Bruno Coelho](https://github.com/BMinority/BMinority/assets/112569417/dcc6471f-70a3-43e3-8c28-1f2e8ad1fde9)
 
 ##
 
