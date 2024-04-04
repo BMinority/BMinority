@@ -10,8 +10,7 @@ Sobre mim:
 </div>
 
 - 🔭 Atualmente estou buscando minha primeira oportunidade como Desenvolvedor;
-- 🌱 Estou aprendendo React JS;
-- 💻 Estudo Desenvolvimento de Software full-stack na Cubos Academy.
+- 💻 Estudo Desenvolvimento de Software full-stack na [Cubos Academy](https://cubos.academy/).
 
 ##
 
