@@ -3,9 +3,15 @@
 ##
 
 Sobre mim:
- - Meu nome é Bruno Coelho, tenho 27 anos e sou um nerd apaixonado por HQ's. Sou apaixonado por areas tecnológicas desde muito jovem. Aos 18 anos cursei Desenvolvimento de jogos em Construct 2; aos 20 anos cursei Produção Audiovisual e agora estou tendo a oportunidade de aprender e migrar para o ramo de Desenvolvimento de Software.
+
+<div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" alt="Gif Animado" width="200" height="200" style="margin-right: 20px;">
+    <p>Meu nome é Bruno Coelho, tenho 27 anos e sou um nerd apaixonado por HQ's e jogos de consoles antigos. Sou apaixonado por áreas tecnológicas desde muito jovem. Aos 18 anos cursei Desenvolvimento de jogos em Construct 2; aos 20 anos cursei Produção Audiovisual e agora estou tendo a oportunidade de aprender e migrar para o ramo de Desenvolvimento de Software.</p>
+</div>
+
 - 🔭 Atualmente estou buscando minha primeira oportunidade como Desenvolvedor;
 - 🌱 Estou aprendendo React JS;
+- 💻 Estudo Desenvolvimento de Software full-stack na Cubos Academy.
 
 ##
 
