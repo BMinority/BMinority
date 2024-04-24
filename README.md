@@ -42,6 +42,35 @@ Em processo de aprendizagem:
 
   ##
 
+  ### Projeto de Destaque
+  ### HealthSys
+  Iniciei este projeto quando ainda estava começando a aprender sobre Javascript e programação front-end. Atualmente estou me aprimorando com conteúdos de programação FullStack e pretendo dar continuidade a este projeto em breve.
+
+  ### Sobre este projeto
+  O HealthSys surgiu com a ideia de ter um sistema único para gerenciar e intermediar entre clínicas e hospitais. Neste sistema também prevejo algumas utilidades como:
+  - controle de estoque de medicamentos;
+  - farmácia virtual (farmácia hospitalar);
+  - gerenciamento de planos de saúde;
+  - controle de entrada e saída de pacientes;
+  - contatos com médicos, clínicas e hospitais para melhor encaminhamento de pacientes, etc.
+
+  ##
+  
+![1](https://github.com/BMinority/BMinority/assets/112569417/e4109a39-a3c3-4ae5-9882-877d9533d138)
+
+  ##
+
+## Demonstração
+- Login: admin
+- Senha: admin
+
+[HealthSys](https://bminority.github.io/HealthSys/)
+
+## Mais sobre este projeto (instalação e execução, funcionalidades, etc.)
+[Clique aqui e saiba mais!](https://github.com/BMinority/HealthSys)
+  
+  ##
+
   <img src="https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical" alt="Bruno Coelho" style="height:10em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact&theme=radical" alt="Top Langs" style="height:10em;">
   
   ##
