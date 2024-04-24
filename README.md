@@ -4,7 +4,7 @@
 
 Sobre mim:
 
-<img align="left" height="130px" width="130px" alt="Warpnet" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif"/>
+<img align="left" height="130px" width="130px" alt="gif animado" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif"/>
 
 <p>Meu nome é Bruno Coelho, tenho 27 anos e sou um nerd apaixonado por HQ's e jogos de consoles antigos. Sou apaixonado por áreas tecnológicas desde muito jovem. Aos 18 anos cursei Desenvolvimento de jogos em Construct 2; aos 20 anos cursei Produção Audiovisual e agora estou tendo a oportunidade de aprender e migrar para o ramo de Desenvolvimento de Software.</p>
 
