@@ -43,7 +43,7 @@ Em processo de aprendizagem:
   ##
 
   ### Projeto de Destaque
-  ### HealthSys
+  ## HealthSys
   Iniciei este projeto quando ainda estava começando a aprender sobre Javascript e programação front-end. Atualmente estou me aprimorando com conteúdos de programação FullStack e pretendo dar continuidade a este projeto em breve.
 
   ### Sobre este projeto
@@ -58,15 +58,13 @@ Em processo de aprendizagem:
   
 ![1](https://github.com/BMinority/BMinority/assets/112569417/e4109a39-a3c3-4ae5-9882-877d9533d138)
 
-  ##
-
-## Demonstração
+### Demonstração
 - Login: admin
 - Senha: admin
 
 [HealthSys](https://bminority.github.io/HealthSys/)
 
-## Mais sobre este projeto (instalação e execução, funcionalidades, etc.)
+### Mais sobre este projeto (instalação e execução, funcionalidades, etc.)
 [Clique aqui e saiba mais!](https://github.com/BMinority/HealthSys)
   
   ##
