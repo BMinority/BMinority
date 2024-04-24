@@ -4,10 +4,11 @@
 
 Sobre mim:
 
-<div style="display: flex; align-items: center;">
-    <img src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" alt="Gif Animado" width="200" height="200" style="margin-right: 20px;">
-    <p>Meu nome é Bruno Coelho, tenho 27 anos e sou um nerd apaixonado por HQ's e jogos de consoles antigos. Sou apaixonado por áreas tecnológicas desde muito jovem. Aos 18 anos cursei Desenvolvimento de jogos em Construct 2; aos 20 anos cursei Produção Audiovisual e agora estou tendo a oportunidade de aprender e migrar para o ramo de Desenvolvimento de Software.</p>
-</div>
+<img align="left" height="130px" width="130px" alt="Warpnet" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif"/>
+
+<p>Meu nome é Bruno Coelho, tenho 27 anos e sou um nerd apaixonado por HQ's e jogos de consoles antigos. Sou apaixonado por áreas tecnológicas desde muito jovem. Aos 18 anos cursei Desenvolvimento de jogos em Construct 2; aos 20 anos cursei Produção Audiovisual e agora estou tendo a oportunidade de aprender e migrar para o ramo de Desenvolvimento de Software.</p>
+
+##
 
 - 🔭 Atualmente estou buscando minha primeira oportunidade como Desenvolvedor;
 - 💻 Estudo Desenvolvimento de Software full-stack na [Cubos Academy](https://cubos.academy/).
