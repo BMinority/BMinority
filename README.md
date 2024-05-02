@@ -2,6 +2,8 @@
 
 ##
 
+# Olá! Eu sou Bruno Coelho, Desenvolvedor Front-end! 👋🏻
+
 Sobre mim:
 
 <img align="left" height="130px" width="130px" alt="gif animado" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif"/>
