@@ -1,8 +1,8 @@
-![Bruno Coelho](https://github.com/BMinority/BMinority/assets/112569417/dcc6471f-70a3-43e3-8c28-1f2e8ad1fde9)
+![Bruno Coelho](https://media.licdn.com/dms/image/D4D16AQFG4fi5U5BX_w/profile-displaybackgroundimage-shrink_350_1400/0/1715947696654?e=1721260800&v=beta&t=8zG-GHQXVAk_Zhav3HWYg2878jhx_16JIIMiqt4Boss)
 
 ##
 
-# Olá! Eu sou Bruno Coelho, Desenvolvedor Front-end! 👋🏻
+# Olá! Eu sou Bruno Coelho, Desenvolvedor Web! 👋🏻
 
 Sobre mim:
 
