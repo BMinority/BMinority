@@ -1,7 +1,3 @@
-![Bruno Coelho](https://media.licdn.com/dms/image/D4D16AQFG4fi5U5BX_w/profile-displaybackgroundimage-shrink_350_1400/0/1715947696654?e=1721260800&v=beta&t=8zG-GHQXVAk_Zhav3HWYg2878jhx_16JIIMiqt4Boss)
-
-##
-
 # Olá! Eu sou Bruno Coelho, Desenvolvedor Web! 👋🏻
 
 Sobre mim:
