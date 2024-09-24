@@ -40,8 +40,31 @@ Em processo de aprendizagem:
 
   ##
 
-  ### Projeto de Destaque
-  ## HealthSys
+  ## Projetos de Destaque
+
+  ## 1. Empório das Pizzas
+  ![Demonstração](https://media.licdn.com/dms/image/v2/D4D22AQErNoUW2Alr2A/feedshare-shrink_800/feedshare-shrink_800/0/1727119572473?e=1730332800&v=beta&t=0-RJu6GvVISdmYHYFVx3RSvvF2_cnS0RisF3CxWNAQ8)
+  
+  O projeto está hospedado na Vercel e pode ser acessado através do seguinte link: [Empório das Pizzas](https://emporiodaspizzas.vercel.app).
+  
+  ### Sobre este projeto
+  O objetivo é oferecer uma interface intuitiva e responsiva para que clientes possam explorar o cardápio, realizar pedidos e obter informações sobre o estabelecimento.
+
+  ### Funcionalidades Principais
+  - **Navegação Responsiva:** 
+  - **Formulário de Pedidos:** 
+  - **Integração com WhatsApp:** 
+  - **Horário de Funcionamento Dinâmico:** 
+  - **Design Moderno:**
+
+  ### Tecnologias Utilizadas
+  - **React.js**
+  - **Vite**
+  - **Vercel**
+  - **CSS**
+  - **FontAwesome**
+  
+  ## 2. HealthSys
   Iniciei este projeto quando ainda estava começando a aprender sobre Javascript e programação front-end. Atualmente estou me aprimorando com conteúdos de programação FullStack e pretendo dar continuidade a este projeto em breve.
 
   ### Sobre este projeto
@@ -80,5 +103,7 @@ Certificados:
 [HTML e CSS: O início](https://www.udemy.com/certificate/UC-4b356421-bba5-4663-9038-afa22b4df7d6/)
 
 [JavaScript - do básico ao avançado (com Node.JS)](https://www.udemy.com/certificate/UC-761b707d-11e3-4dc2-b309-2f32611a0e78/)
+
+[Desenvolvimento de Software Noturno - Foco em BACKEND](https://www.linkedin.com/feed/update/urn:li:activity:7242281064222642176/)
 
 
