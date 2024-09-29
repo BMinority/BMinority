@@ -40,10 +40,32 @@ Em processo de aprendizagem:
 
   ##
 
-  ## Projetos de Destaque
+  ## Projetos de Destaque:
+  ### 1. Pede já
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQFh3ChjTGRCZw/feedshare-shrink_1280/feedshare-shrink_1280/0/1727572333879?e=1730332800&v=beta&t=La2Uu-0d3paNJJyIDWp3mWx-oEwDb2Ct6iA00uBGIwk" alt="Banner Pede Já" width="500"/>
 
-  ## 1. Empório das Pizzas
-  ![Demonstração](https://media.licdn.com/dms/image/v2/D4D22AQErNoUW2Alr2A/feedshare-shrink_800/feedshare-shrink_800/0/1727119572473?e=1730332800&v=beta&t=0-RJu6GvVISdmYHYFVx3RSvvF2_cnS0RisF3CxWNAQ8)
+  ### Descrição
+Pede Já é um aplicativo de delivery otimizado para diferentes dispositivos, com uma interface amigável e funcionalidades avançadas para facilitar a navegação do usuário.
+Demonstração: [Clique aqui.](https://pedeja.vercel.app/)
+
+### Funcionalidades
+ - UI/UX Otimizada: Projeto responsivo e adaptativo para diversos dispositivos, incluindo smartphones e desktops.
+ - Navegação Entre Páginas: Implementado com React Router para facilitar a transição entre as telas.
+ - Menu de Navegação Lateral: Inclui um menu no estilo "hamburger" que se expande em dispositivos móveis.
+ - Promoções Especiais: Página dedicada para promoções de pratos.
+ - Design Moderno: Segue boas práticas de UX e UI para garantir uma experiência visual agradável.
+
+ ### Tecnologias utilizadas
+
+ - **React.js**: Biblioteca JavaScript para criação de interfaces.
+ - **CSS3**: Estilos e design responsivo.
+ - **React Router**: Gerenciamento de rotas no lado do cliente.
+ - **Font Awesome** e **Icons8**: Ícones para aprimorar a navegação visual.
+
+  #
+
+  ### 2. Empório das Pizzas
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQErNoUW2Alr2A/feedshare-shrink_800/feedshare-shrink_800/0/1727119572473?e=1730332800&v=beta&t=0-RJu6GvVISdmYHYFVx3RSvvF2_cnS0RisF3CxWNAQ8" alt="Banner Emporio das Pizzas" width="500" />
   
   O projeto está hospedado na Vercel e pode ser acessado através do seguinte link: [Empório das Pizzas](https://emporiodaspizzas.vercel.app).
   
@@ -63,8 +85,10 @@ Em processo de aprendizagem:
   - **Vercel**
   - **CSS**
   - **FontAwesome**
+
+  #
   
-  ## 2. HealthSys
+  ### 3. HealthSys
   Iniciei este projeto quando ainda estava começando a aprender sobre Javascript e programação front-end. Atualmente estou me aprimorando com conteúdos de programação FullStack e pretendo dar continuidade a este projeto em breve.
 
   ### Sobre este projeto
