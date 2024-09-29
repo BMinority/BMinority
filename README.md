@@ -118,7 +118,7 @@ Demonstração: [Clique aqui.](https://pedeja.vercel.app/)
   
   ##
 
-Certificados:
+## Certificados:
 
 [Git & Github Essencial para o Desenvolvedor](https://www.udemy.com/certificate/UC-a4acea8e-c6cd-4a16-88ff-5e81bf05bd36/)
 
