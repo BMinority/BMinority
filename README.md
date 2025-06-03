@@ -108,11 +108,17 @@ Neste projeto trabalhei desde a concepçção do Logotipo até a criação da p�
  * Botõs interativos;
  * Integração com Whatsapp.
 
-##
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical" alt="Bruno Coelho" style="height:10em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact&theme=radical" alt="Top Langs" style="height:10em;">
-  
-##
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BMinority&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Bruno Coelho"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMinority&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
+</div>
+
+---
 
 ## Certificados:
 
