@@ -67,6 +67,7 @@ As tecnologias abaixo foram aplicadas nos projetos listados neste repositório:
 
 <img src="./assets/Page 1.png" alt="Projeto 1" width="500"/>
 
+[Clique aqui e visite a página](https://interarteinfo.netlify.app/)
 <h3>Sobre o Projeto</h3>
 <p>Projeto voluntário desenvolvido para a empresa Interarte; uma empresa especializada e consertos e manutenção de computadores mas que também funciona como uma gráfica rápida. </br> 
 Neste projeto trabalhei desde a concepçção do Logotipo até a criação da página web para divulgação da empresa.
@@ -81,6 +82,7 @@ Neste projeto trabalhei desde a concepçção do Logotipo até a criação da p�
 ## Controle de Publicações
 <img src="./assets/Page 2.png" alt="Projeto 1" width="500"/>
 
+[Clique aqui e visite a página](https://cpjw.vercel.app/)
 <h3>Sobre o Projeto</h3>
 <p>Projeto voluntário desenvolvido para auxiliar no controle de contabilidade de livros, revistas, folhetos e outras publicações produzidas pela Organização das Testemunhas d Jeová.
 </p>
@@ -95,6 +97,7 @@ Neste projeto trabalhei desde a concepçção do Logotipo até a criação da p�
 ## Site Pessoal
 <img src="./assets/Page 3.png" alt="Projeto 1" width="500"/>
 
+[Clique aqui e visite a página](https://brunocoelhodd.vercel.app/)
 <h3>Sobre o Projeto</h3>
 <p>Página pessoal desenvolvida para servir como portfólio e via de acesso para futuros clientes ou contratantes.
 </p>
