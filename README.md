@@ -28,37 +28,31 @@ Em processo de aprendizagem:
 
 ##
 
-  # Projetos de Destaque:
-## Tecnologias utilizadas nos projetos abaixo:
+# 🚀 Projetos de Destaque
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="50"><br>
-      <sub>ReactJS</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50" width="50"><br>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50"><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50"><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50"><br>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="50"><br>
-      <sub>Git</sub>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tecnologias Utilizadas
+
+As tecnologias abaixo foram aplicadas nos projetos listados neste repositório:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="ReactJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" alt="Git"/>
+</p>
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| **ReactJS** | Biblioteca para interfaces web reativas |
+| **JavaScript** | Linguagem de programação principal |
+| **HTML5** | Estruturação das páginas |
+| **CSS3** | Estilização responsiva e moderna |
+| **Node.js** | Testes, Backend ou integração de APIs |
+| **Git** | Controle de versão e versionamento |
+
+---
 
 ## Interarte
 <h2>Informática e Gráfica rápida</h2>
