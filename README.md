@@ -1,32 +1,40 @@
-# Olá! Eu sou Bruno Coelho, Desenvolvedor Web! 👋🏻
+# 👋 Olá! Eu sou o Bruno Coelho, Desenvolvedor Web
 
-Sobre mim:
+<img align="left" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" width="140" alt="Gif retrô"/>
 
-<img align="left" height="130px" width="130px" style="margin-right: 10px" alt="gif animado" src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif"/>
+Sou um entusiasta da tecnologia, HQs e jogos retrô. Tenho 28 anos e desde muito jovem sou apaixonado por tudo que envolve o universo tech. Minha trajetória profissional me permite utilizar minha experiência em comércio e administração no trabalho com Artes gráficas e Desenvolvimento de aplicações web.
 
-Me chamo Bruno Coelho, tenho 28 anos e sou um nerd apaixonado por HQ's e jogos retrô. Sou apaixonado por áreas tecnológicas desde muito jovem.
-Sou Designer gráfico e Desenvolvedor web com experiência em administração e uma grande vivência em comércio.
+Atualmente, busco minha **primeira oportunidade como Desenvolvedor** para aplicar meus conhecimentos e crescer profissionalmente.
 
-##
+---
 
-- 🔭 Atualmente estou buscando minha primeira oportunidade como Desenvolvedor;
-- 💻 Estudei Desenvolvimento de Software full-stack na [Cubos Academy](https://cubos.academy/).
+## 🚀 Sobre mim
 
-##
+- 🎨 Designer Gráfico com experiência em branding e criação visual  
+- 💻 Desenvolvedor Web com formação Full Stack pela [Cubos Academy](https://cubos.academy/)  
+- 🛒 Experiência sólida em administração e atendimento ao cliente  
+- 📚 Apaixonado por aprender e compartilhar conhecimento  
 
-Em processo de aprendizagem:
-<div>
-  <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+---
+
+## 👨‍💻 Em processo de aprendizagem
+
+Estou aprimorando meus conhecimentos nas seguintes tecnologias:
+
+<div style="display: flex; gap: 10px;">
+  <img alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/dev-bcoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+---
 
-##
+## 📫 Contato
+
+Se quiser bater um papo, tirar dúvidas ou conhecer meus projetos:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bcoelho)
+
+---
 
 # 🚀 Projetos de Destaque
 
