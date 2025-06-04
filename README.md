@@ -69,14 +69,14 @@ As tecnologias abaixo foram aplicadas nos projetos listados neste repositório:
 
 [Clique aqui e visite a página](https://interarteinfo.netlify.app/)
 <h3>Sobre o Projeto</h3>
-<p>Projeto voluntário desenvolvido para a empresa Interarte; uma empresa especializada e consertos e manutenção de computadores mas que também funciona como uma gráfica rápida. </br> 
-Neste projeto trabalhei desde a concepçção do Logotipo até a criação da página web para divulgação da empresa.
+<p>Projeto voluntário desenvolvido para a empresa Interarte; uma empresa especializada em consertos e manutenção de computadores mas que também funciona como uma gráfica rápida. </br> 
+Neste projeto trabalhei desde a concepção do Logotipo até a criação da página web para divulgação da empresa.
 </p>
 
 ### Funcionalidades
  * Design moderno e responsivo;
  * Design UI/UX pensado no usuário;
- * Botõs interativos;
+ * Botões interativos;
  * Integração com Whatsapp. 
 
 ## Controle de Publicações
@@ -84,13 +84,13 @@ Neste projeto trabalhei desde a concepçção do Logotipo até a criação da p�
 
 [Clique aqui e visite a página](https://cpjw.vercel.app/)
 <h3>Sobre o Projeto</h3>
-<p>Projeto voluntário desenvolvido para auxiliar no controle de contabilidade de livros, revistas, folhetos e outras publicações produzidas pela Organização das Testemunhas d Jeová.
+<p>Projeto voluntário desenvolvido para auxiliar no controle de contabilidade de livros, revistas, folhetos e outras publicações produzidas pela Organização das Testemunhas de Jeová.
 </p>
 
 ### Funcionalidades
  * Design moderno e responsivo;
  * Design UI/UX pensado no usuário;
- * Botõs interativos;
+ * Botões interativos;
  * Integração com a biblioteca JSPDF. 
 
 
@@ -105,7 +105,7 @@ Neste projeto trabalhei desde a concepçção do Logotipo até a criação da p�
 ### Funcionalidades
  * Design moderno e responsivo;
  * Design UI/UX pensado no usuário;
- * Botõs interativos;
+ * Botões interativos;
  * Integração com Whatsapp.
 
 ---
