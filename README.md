@@ -23,7 +23,6 @@ Estou aprimorando meus conhecimentos nas seguintes tecnologias:
 
 <div style="display: flex; gap: 10px;">
   <img alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
 ---
